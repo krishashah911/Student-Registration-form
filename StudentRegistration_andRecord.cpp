@@ -184,7 +184,7 @@ int count= 7032100;
    }
 
 }
-
+/*******************Main Function*******************/
 int main()
 {
     cout<<"\t\tSHRI VILE PARLE KELAVANI MANDAL'S\n\t\tNarsee Monjee Institute of Management Studies\n";
@@ -225,3 +225,4 @@ do
 
 return 0;
 }
+/**************************PROGRAM ENDS***********************/
